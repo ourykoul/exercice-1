@@ -1,0 +1,28 @@
+h1 {
+ color:black;
+}
+
+body {
+ font-family: 'Maven Pro', sans-serif;
+ margin: 0;
+}
+main {margin: 50px; }
+p{
+    text-align:center;
+}
+    
+a{
+    text-decoration: none;
+}
+header{ 
+    border-color: currentColor;
+padding-top: 15px;
+padding-bottom: 5px;
+background:green;
+}
+
+header li{
+    text-align: center;
+    width: 32%;
+    display: inline-block;
+}
